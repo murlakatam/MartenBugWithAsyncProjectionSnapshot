@@ -1,0 +1,8 @@
+.idea/*
+*.user
+**/bin/
+**/obj/
+**/out/
+**/TestResults/
+**/Internal/Generated
+Dockerfile
